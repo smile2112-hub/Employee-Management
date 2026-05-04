@@ -1,0 +1,88 @@
+[
+  {},
+  {
+    "id": 2,
+    "name": "Bob",
+    "dept": "IT",
+    "email": "bob@abc.com",
+    "salary": 72000
+  },
+  {
+    "id": "3",
+    "name": "Raju",
+    "dept": "Finance",
+    "email": "raju123@gmail.com",
+    "salary": "90000"
+  },
+  {
+    "id": "4",
+    "name": "Nitya",
+    "dept": "HR",
+    "email": "nitya.hr@gmail.com",
+    "salary": "560808"
+  },
+  {
+    "id": "5",
+    "name": "Vyankat",
+    "dept": "Finance",
+    "email": "vyankat23@gmail.com",
+    "salary": "4560894"
+  },
+  {
+    "id": "6",
+    "name": "Anna",
+    "dept": "HR",
+    "email": "anna123@gmail.com",
+    "salary": "000"
+  },
+  {
+    "id": "7",
+    "name": "Uday",
+    "dept": "IT",
+    "email": "uday223@gmail.com",
+    "salary": "13444"
+  },
+  {
+    "id": "8",
+    "name": "Priyanka Shuhas Welfod",
+    "dept": "IT",
+    "email": "nsalate@gmail.com",
+    "salary": "132898"
+  },
+  {
+    "id": "9",
+    "name": "jhv",
+    "dept": "Finance",
+    "email": "amsbgc@gmail.com",
+    "salary": "827364"
+  },
+  {
+    "id": "10",
+    "name": "Piyush",
+    "dept": "IT",
+    "email": "piyush@12gmail.com",
+    "salary": "287346"
+  },
+  {
+    "id": "11",
+    "name": "Pratik",
+    "dept": "IT",
+    "email": "pratik123@gmail.com",
+    "salary": "238746"
+  },
+  {
+    "id": "13",
+    "name": "MK",
+    "dept": "HR",
+    "email": "MK2gmail.com",
+    "salary": "12368"
+  },
+  {},
+  {
+    "id": "14",
+    "name": "Anita",
+    "dept": "HR",
+    "email": "anita@gmail.com",
+    "salary": "273"
+  }
+]
